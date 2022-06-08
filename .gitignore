@@ -1,0 +1,6 @@
+#모듈
+/server/node_modules
+/client/node_modules
+
+#db정보
+/server/config/dev.js
